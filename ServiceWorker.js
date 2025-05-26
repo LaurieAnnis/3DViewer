@@ -1,9 +1,9 @@
-const cacheName = "Unreality3D-3DViewer-0.1.8";
+const cacheName = "Unreality3D-3DViewer-0.2.1";
 const contentToCache = [
     "Build/3DViewerBuilds.loader.js",
-    "Build/3DViewerBuilds.framework.js",
-    "Build/3DViewerBuilds.data",
-    "Build/3DViewerBuilds.wasm",
+    "Build/3DViewerBuilds.framework.js.unityweb",
+    "Build/3DViewerBuilds.data.unityweb",
+    "Build/3DViewerBuilds.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
